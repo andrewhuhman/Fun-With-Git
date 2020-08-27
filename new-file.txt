@@ -1,0 +1,4 @@
+Hello World!
+Today is Thursday, Aug. 27, 2020
+The time is 0214
+This is the first file in this repo!
